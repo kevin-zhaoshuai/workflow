@@ -1,1 +1,1 @@
-![Alt Text](https://github.com/kevin-zhaoshuai/workflow/zun-container-interactive-mode.png)
+![Alt Text](https://github.com/kevin-zhaoshuai/workflow/blob/master/zun-container-interactive-mode.png)
